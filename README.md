@@ -23,4 +23,4 @@ Digite o seguinte comando dentro da pasta mobile através do terminal:
 Dentro da pasta mobile, digite o seguinte comando no terminal: 
  - expo start
 
-Utilize o aplicativo do expo ou um emulador para executar o aplicativo.
+Utilize o aplicativo do expo ou um emulador para executar o app.
