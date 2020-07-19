@@ -19,7 +19,7 @@ Faça download do repositório acima ou use o seguinte comando na pasta onde des
 Digite o seguinte comando dentro da pasta mobile através do terminal:
  - npm install
 
-## Quarto passo - iniciar app
+## Terceiro passo - iniciar app
 Dentro da pasta mobile, digite o seguinte comando no terminal: 
  - expo start
 
