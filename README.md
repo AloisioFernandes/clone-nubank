@@ -1,6 +1,11 @@
 # Clone Nubank
  Clone da interface do nubank
 
+ <p align="center">
+  <img align="center" src=".github/nubank_clone1.png" alt="Clone Nubank 1" width="275" border="0">
+  <img align="center" src=".github/nubank_clone2.png" alt="Clone Nubank 2" width="275" border="0">
+</p>
+
 ## Requisitos
     Instalar o Git
     https://git-scm.com/downloads
